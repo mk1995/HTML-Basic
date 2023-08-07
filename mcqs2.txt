@@ -1,0 +1,150 @@
+1. What is the purpose of the <head> tag in HTML?
+   a) To define the main content of the page
+   b) To create a header section
+   c) To include metadata and external resources (Correct)
+   d) To style the text content
+
+2. Which tag is used to create a level 2 heading in HTML?
+   a) <heading>
+   b) <h1>
+   c) <h2> (Correct)
+   d) <h3>
+
+3. What is the purpose of the <ul> tag in HTML?
+   a) To create an ordered list
+   b) To create an unordered list (Correct)
+   c) To emphasize text
+   d) To apply inline styles
+
+4. Which tag is used to create a bullet point in an unordered list in HTML?
+   a) <point>
+   b) <bullet>
+   c) <li> (Correct)
+   d) <ul>
+
+5. What does the <h1> tag represent in HTML?
+   a) Italic text
+   b) Underlined text
+   c) Level 1 heading (Correct)
+   d) Level 2 heading
+
+6. Which tag is used to create a link to an external web page in HTML?
+   a) <a>
+   b) <link>
+   c) <href>
+   d) <a> with the "href" attribute (Correct)
+
+7. What does the <ol> tag do in HTML?
+   a) Create an ordered list (Correct)
+   b) Create an unordered list
+   c) Format text
+   d) Add inline styles
+
+8. Which tag is used to define a hyperlink in HTML?
+   a) <a> (Correct)
+   b) <link>
+   c) <hyperlink>
+   d) <href>
+
+9. What does the <li> tag stand for in HTML?
+   a) List item (Correct)
+   b) Line item
+   c) Link item
+   d) Level item
+
+10. Which tag is used for creating a level 1 heading in HTML?
+    a) <h1> (Correct)
+    b) <h2>
+    c) <heading>
+    d) <h3>
+
+11. What is the purpose of the <em> tag in HTML?
+    a) Creating a hyperlink
+    b) Adding inline styles
+    c) Emphasizing text (Correct)
+    d) Displaying images
+
+12. Which tag is used to create a hyperlink in HTML?
+    a) <a> (Correct)
+    b) <link>
+    c) <href>
+    d) <hyperlink>
+
+13. What does the <hr> tag represent in HTML?
+    a) Horizontal rule (Correct)
+    b) Header row
+    c) Hyperlink reference
+    d) Heading row
+
+14. Which tag is used to change the font size in HTML?
+    a) <size>
+    b) <font-size>
+    c) <font>
+    d) <span> (Correct)
+
+15. What is the purpose of the <b> tag in HTML?
+    a) Underline text
+    b) Make text bold (Correct)
+    c) Italicize text
+    d) Add inline styles
+
+16. Which tag is used to create a line break in HTML?
+    a) <br> (Correct)
+    b) <lb>
+    c) <break>
+    d) <newline>
+
+17. What does the <ul> tag stand for in HTML?
+    a) Unordered list (Correct)
+    b) Underlined list
+    c) Underlined link
+    d) Unstyled list
+
+18. Which tag is used to create an emphasized text in HTML?
+    a) <em>
+    b) <i>
+    c) <b>
+    d) <italic>
+
+19. What is the purpose of the <h2> tag in HTML?
+    a) Creating a hyperlink
+    b) Creating a level 2 heading (Correct)
+    c) Formatting text
+    d) Adding inline styles
+
+20. Which tag is used to create a horizontal rule in HTML?
+    a) <rule>
+    b) <line>
+    c) <hr> (Correct)
+    d) <hl>
+
+21. What does the <font> tag allow you to do in HTML?
+    a) Change the font style
+    b) Change the font size
+    c) Change the font color (Correct)
+    d) All of the above
+
+22. Which tag is used for making text appear in italics in HTML?
+    a) <i> (Correct)
+    b) <italic>
+    c) <em>
+    d) <italics>
+
+23. What is the purpose of the <ol> tag in HTML?
+    a) Creating an ordered list (Correct)
+    b) Creating an unordered list
+    c) Formatting text
+    d) Adding inline styles
+
+24. Which tag is used to define a numbered list item in HTML?
+    a) <ol>
+    b) <li> (Correct)
+    c) <ul>
+    d) <list>
+
+25. What does the <b> tag do in HTML?
+    a) Underline text
+    b) Make text bold (Correct)
+    c) Italicize text
+    d) Add inline styles
+
