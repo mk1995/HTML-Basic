@@ -1,0 +1,301 @@
+1. What is the purpose of the <head> tag in HTML?
+   a) To define the main content of the page
+   b) To create a header section
+   c) To include metadata and external resources
+   d) To style the text content
+
+2. Which tag is used to create a level 2 heading in HTML?
+   a) <heading>
+   b) <h1>
+   c) <h2>
+   d) <h3>
+
+3. What is the purpose of the <ul> tag in HTML?
+   a) To create an ordered list
+   b) To create an unordered list
+   c) To emphasize text
+   d) To apply inline styles
+
+4. Which tag is used to create a bullet point in an unordered list in HTML?
+   a) <point>
+   b) <bullet>
+   c) <li>
+   d) <ul>
+
+5. What does the <h1> tag represent in HTML?
+   a) Italic text
+   b) Underlined text
+   c) Level 1 heading
+   d) Level 2 heading
+
+6. Which tag is used to create a link to an external web page in HTML?
+   a) <a>
+   b) <link>
+   c) <href>
+   d) <a> with the "href" attribute
+
+7. What does the <ol> tag do in HTML?
+   a) Create an ordered list
+   b) Create an unordered list
+   c) Format text
+   d) Add inline styles
+
+8. Which tag is used to define a hyperlink in HTML?
+   a) <a>
+   b) <link>
+   c) <hyperlink>
+   d) <href>
+
+9. What does the <li> tag stand for in HTML?
+   a) List item
+   b) Line item
+   c) Link item
+   d) Level item
+
+10. Which tag is used for creating a level 1 heading in HTML?
+    a) <h1>
+    b) <h2>
+    c) <heading>
+    d) <h3>
+
+11. What is the purpose of the <em> tag in HTML?
+    a) Creating a hyperlink
+    b) Adding inline styles
+    c) Emphasizing text
+    d) Displaying images
+
+12. Which tag is used to create a hyperlink in HTML?
+    a) <a>
+    b) <link>
+    c) <href>
+    d) <hyperlink>
+
+13. What does the <hr> tag represent in HTML?
+    a) Horizontal rule
+    b) Header row
+    c) Hyperlink reference
+    d) Heading row
+
+14. Which tag is used to change the font size in HTML?
+    a) <size>
+    b) <font-size>
+    c) <font>
+    d) <span>
+
+15. What is the purpose of the <b> tag in HTML?
+    a) Underline text
+    b) Make text bold
+    c) Italicize text
+    d) Add inline styles
+
+16. Which tag is used to create a line break in HTML?
+    a) <br>
+    b) <lb>
+    c) <break>
+    d) <newline>
+
+17. What does the <ul> tag stand for in HTML?
+    a) Unordered list
+    b) Underlined list
+    c) Underlined link
+    d) Unstyled list
+
+18. Which tag is used to create an emphasized text in HTML?
+    a) <em>
+    b) <i>
+    c) <b>
+    d) <italic>
+
+19. What is the purpose of the <h2> tag in HTML?
+    a) Creating a hyperlink
+    b) Creating a level 2 heading
+    c) Formatting text
+    d) Adding inline styles
+
+20. Which tag is used to create a horizontal rule in HTML?
+    a) <rule>
+    b) <line>
+    c) <hr>
+    d) <hl>
+
+21. What does the <font> tag allow you to do in HTML?
+    a) Change the font style
+    b) Change the font size
+    c) Change the font color
+    d) All of the above
+
+22. Which tag is used for making text appear in italics in HTML?
+    a) <i>
+    b) <italic>
+    c) <em>
+    d) <italics>
+
+23. What is the purpose of the <ol> tag in HTML?
+    a) Creating an ordered list
+    b) Creating an unordered list
+    c) Formatting text
+    d) Adding inline styles
+
+24. Which tag is used to define a numbered list item in HTML?
+    a) <ol>
+    b) <li>
+    c) <ul>
+    d) <list>
+
+25. What does the <b> tag do in HTML?
+    a) Underline text
+    b) Make text bold
+    c) Italicize text
+    d) Add inline styles
+
+26. How many heading levels were used in the provided HTML document?
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+27. Which tag is used for changing text color in the provided HTML document?
+    a) <color>
+    b) <span>
+    c) <font>
+    d) <color="">
+
+28. What does the <ul> tag represent in the provided HTML document?
+    a) Unordered list
+    b) Ordered list
+    c) Bold text
+    d) Italic text
+
+29. How many list items are in the "Fruits List" in the provided HTML document?
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+30. Which tag is used for applying background color to text in the provided HTML document?
+    a) <bgcolor>
+    b) <highlight>
+    c) <span>
+    d) <span style="background-color:">
+
+31. What is the font color of the text "This is a blue text" in the provided HTML document?
+    a) Blue
+    b) Red
+    c) Purple
+    d) Green
+
+32. Which tag is used to create a new paragraph in the provided HTML document?
+    a) <p>
+    b) <para>
+    c) <paragraph>
+    d) <line>
+
+33. What is the purpose of the <em> tag in the provided HTML document?
+    a) Creating a hyperlink
+    b) Adding inline styles
+    c) Emphasizing text
+    d) Changing font color
+
+34. How many list items are in the "Vegetables List" in the provided HTML document?
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+35. Which tag is used to create a level 2 heading in the provided HTML document?
+    a) <h1>
+    b) <h2>
+    c) <h3>
+    d) <heading>
+
+36. What is the font color of the text "This is a purple
+
+ text" in the provided HTML document?
+    a) Blue
+    b) Purple
+    c) Orange
+    d) Green
+
+37. Which tag is used for making text appear in bold in the provided HTML document?
+    a) <bold>
+    b) <b>
+    c) <strong>
+    d) <em>
+
+38. How many heading elements were used for the main headings in the provided HTML document?
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+39. What does the <font> tag represent in the provided HTML document?
+    a) Changing the font size
+    b) Changing the font color
+    c) Changing the font style
+    d) Adding inline styles
+
+40. Which tag is used to create a horizontal rule in the provided HTML document?
+    a) <hr>
+    b) <line>
+    c) <break>
+    d) <rule>
+
+41. What does the <span> tag allow you to do in the provided HTML document?
+    a) Grouping block-level elements
+    b) Creating a hyperlink
+    c) Applying inline styles
+    d) Creating ordered lists
+
+42. How many list items are in the "Numbered List" in the provided HTML document?
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+43. Which tag is used to create a link to an external web page in the provided HTML document?
+    a) <a>
+    b) <link>
+    c) <href>
+    d) <a> with the "href" attribute
+
+44. What is the font color of the text "This is a light blue highlighted text" in the provided HTML document?
+    a) Yellow
+    b) Light blue
+    c) Red
+    d) Green
+
+45. Which tag is used to define a hyperlink in the provided HTML document?
+    a) <a>
+    b) <link>
+    c) <hyperlink>
+    d) <href>
+
+46. What does the <ol> tag represent in the provided HTML document?
+    a) Unordered list
+    b) Ordered list
+    c) Bold text
+    d) Italic text
+
+47. Which tag is used for creating a level 1 heading in the provided HTML document?
+    a) <h1>
+    b) <h2>
+    c) <heading>
+    d) <h3>
+
+48. What does the <ul> tag represent in the provided HTML document?
+    a) Unordered list
+    b) Ordered list
+    c) Bold text
+    d) Italic text
+
+49. How many list items are in the "Fruits List" in the provided HTML document?
+    a) 1
+    b) 2
+    c) 3
+    d) 4
+
+50. Which tag is used for applying background color to text in the provided HTML document?
+    a) <bgcolor>
+    b) <highlight>
+    c) <span>
+    d) <span style="background-color:">
